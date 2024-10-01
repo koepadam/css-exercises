@@ -1,0 +1,18 @@
+.pink {
+    background-color: #e35fae;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#blue {
+    color: hsl(238, 70%, 63%);
+    font-size: 36px;
+}
+
+#green {
+    background-color: hsl(149, 60%, 55%);
+    font-weight: bold;
+    font-size: 24px;
+}
